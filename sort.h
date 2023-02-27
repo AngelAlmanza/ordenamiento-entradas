@@ -1,3 +1,5 @@
+#include <stdbool.h>
+
 int *shell(int arreglo[], int n) {
   int ints, i, aux;
   bool band;
